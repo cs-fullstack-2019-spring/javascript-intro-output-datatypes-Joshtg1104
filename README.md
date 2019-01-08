@@ -11,4 +11,12 @@ Add JavaScript inline (using <script> tags) that does the following:
 
 * Write the code to log ```My name is YOURNAME and I am YOURAGE``` in the developer console
 
-https://github.com/cs-fullstack-2019-spring/javascript-intro-output-datatypes-Joshtg1104.git
+http://localhost:63342/js_practice/js_home.html?_ijt=vaommf7tmpn0djm9b00kvq1t88
+
+<script>
+    var MyName= "Joshua";
+    var MyAge= 28;
+
+    console.log("My name is " +MyName+ " and I am " +MyAge);
+</script>
+
